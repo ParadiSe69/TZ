@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010.03.30 08:57:14.913.pas,\\pi.sfu-kras.ru\dfs\Users\D\Student\0702625\Documents\RAD Studio\Projects\Unit1.pas=\\pi.sfu-kras.ru\dfs\Users\D\Student\0702625\Documents\RAD Studio\Projects\SWC\Unit1.pas</Transaction>
+    <Transaction>2010.03.30 08:57:14.913.dfm,\\pi.sfu-kras.ru\dfs\Users\D\Student\0702625\Documents\RAD Studio\Projects\Unit1.dfm=\\pi.sfu-kras.ru\dfs\Users\D\Student\0702625\Documents\RAD Studio\Projects\SWC\Unit1.dfm</Transaction>
+    <Transaction>2010.03.30 08:57:18.361.dproj,\\pi.sfu-kras.ru\dfs\Users\D\Student\0702625\Documents\RAD Studio\Projects\Project1.dproj=\\pi.sfu-kras.ru\dfs\Users\D\Student\0702625\Documents\RAD Studio\Projects\SWC\Project1.dproj</Transaction>
+    <Transaction>2010.04.28 17:21:43.888.pas,E:\3 курс\ЛПО САПР\SWC\Unit1.pas=E:\3 курс\ЛПО САПР\Курсовой\Bob.pas</Transaction>
+    <Transaction>2010.04.28 17:21:43.888.dfm,E:\3 курс\ЛПО САПР\SWC\Unit1.dfm=E:\3 курс\ЛПО САПР\Курсовой\Bob.dfm</Transaction>
+    <Transaction>2010.04.28 17:26:32.593.pas,E:\3 курс\ЛПО САПР\SWC\Unit2.pas=E:\3 курс\ЛПО САПР\SWC\Konich_bob.pas</Transaction>
+    <Transaction>2010.04.28 17:58:47.138.pas,E:\3 курс\ЛПО САПР\Курсовой\Bob.pas=E:\3 курс\ЛПО САПР\1\Bob.pas</Transaction>
+    <Transaction>2010.04.28 17:58:47.138.dfm,E:\3 курс\ЛПО САПР\Курсовой\Bob.dfm=E:\3 курс\ЛПО САПР\1\Bob.dfm</Transaction>
+    <Transaction>2010.04.28 17:59:01.023.pas,E:\3 курс\ЛПО САПР\SWC\Konich_bob.pas=E:\3 курс\ЛПО САПР\1\Konich_bob.pas</Transaction>
+    <Transaction>2010.04.28 17:59:45.156.dproj,E:\3 курс\ЛПО САПР\SWC\Project1.dproj=E:\3 курс\ЛПО САПР\1\Konich.dproj</Transaction>
+    <Transaction>2010.05.12 14:08:27.660.pas,\\pi.sfu-kras.ru\dfs\Users\D\Student\ezaxarov-mt07\Desktop\Лаба Солид\КостинаЧасть\Для вставки\Unit1.pas=\\pi.sfu-kras.ru\dfs\Users\D\Student\ezaxarov-mt07\Desktop\Лаба Солид\КостинаЧасть\Для вставки\Konich_zub.pas</Transaction>
+  </Transactions>
+</BorlandProject>
